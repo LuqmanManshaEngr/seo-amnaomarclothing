@@ -1,10 +1,10 @@
 # Amna Omar Clothing | SEO Performance Case Study
 ### Google Search Console Analysis | March - July 2026
 
-**Prepared by:** Muhammad Luqman Mansha | SEO Specialist & Digital Media Marketer, TIMaC Agency 
-**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) | women's fashion e-commerce, Pakistan 
-**Data source:** Google Search Console (Performance report, "Last 6 months" filter, Web search type) 
-**Period analyzed:** March 2, 2026 - July 31, 2026 (5 full months, 152 days of daily data) 
+**Prepared by:** Muhammad Luqman Mansha | SEO Specialist & Digital Media Marketer, TIMaC Agency  
+**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) | women's fashion e-commerce, Pakistan  
+**Data source:** Google Search Console (Performance report, "Last 6 months" filter, Web search type)  
+**Period analyzed:** March 2, 2026 - July 31, 2026 (5 full months, 152 days of daily data)  
 
 ---
 
