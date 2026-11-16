@@ -2,7 +2,7 @@
 ### Google Search Console Analysis | March - November 2026
 
 **Prepared by:** Muhammad Luqman Mansha | SEO Specialist & Digital Media Marketer, TIMaC Agency  
-**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) | custom-stitched women's fashion e-commerce, Pakistan (ships internationally)
+**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) | custom-stitched women's fashion e-commerce, Pakistan (ships internationally)  
 **Data source:** Google Search Console (Performance report, "Last 9 months" filter, Web search type)  
 **Period analyzed:** March 2, 2026 - November 11, 2026 (8 full months, 255 days of daily data)  
 
@@ -17,12 +17,12 @@
 | Total clicks | 70 |
 | Total impressions | 914 |
 | Overall CTR | 7.7% |
-| Peak month (impressions) | September — 230 |
-| Peak month (clicks) | September — 18 |
+| Peak month (impressions) | September - 230 |
+| Peak month (clicks) | September - 18 |
 | Pages earning impressions | 12 (up from 8 at the 5-month mark) |
 | Countries with impressions | 60 |
 
-**Progress since the 5-month report (March–July: 36 clicks, 289 impressions):** August–November added 34 clicks and 625 impressions, so impressions more than tripled in total.
+**Progress since the 5-month report (March–July: 36 clicks, 289 impressions):** August-November added 34 clicks and 625 impressions, so impressions more than tripled in total.
 
 > **Honest framing:** this is a young store with small absolute numbers. The value of this case study is the *pattern*; first indexation, impression growth and a diagnosis of what is and is not converting; not the raw volume.
 
@@ -54,7 +54,7 @@
 ![Device Breakdown](images/AOC_Device_breakdown.png)<img width="2114" height="1277" alt="AOC- Device breakdown" src="https://github.com/user-attachments/assets/8d3b0807-8b9e-46bd-a2f9-761689120f85" />
 
 - **Mobile delivered 60 of 70 clicks (86%)** with a 10.0% CTR and an average position of 5.6.
-- Desktop earned 300 impressions but only 10 clicks (3.3% CTR) at an average position of 12.9 — it is ranking much lower there.
+- Desktop earned 300 impressions but only 10 clicks (3.3% CTR) at an average position of 12.9; it is ranking much lower there.
 - Priority: keep mobile experience and Core Web Vitals first, and investigate why desktop positions are so much weaker.
 
 ---
@@ -64,7 +64,7 @@
 ![Top Countries](images/AOC_Top_Countries.png)<img width="2080" height="1198" alt="AOC- Top Countries" src="https://github.com/user-attachments/assets/8878fe93-9e5e-4674-9a6b-076af2537344" />
 
 - Pakistan leads (35 clicks, 410 impressions), followed by the United States (10 clicks, 127 impressions) and the United Kingdom (9 clicks, 61 impressions).
-- Smaller markets convert well on low volume: UK 14.8% CTR, Saudi Arabia 20% (5 clicks / 25 impressions). Treat these as early signals, not conclusions — the sample sizes are small.
+- Smaller markets convert well on low volume: UK 14.8% CTR, Saudi Arabia 20% (5 clicks / 25 impressions). Treat these as early signals, not conclusions; the sample sizes are small.
 
 ---
 
@@ -89,7 +89,7 @@ The campaign window overlaps an unusually busy year for Google Search, per Googl
 | Mar 27 | March 2026 core update |
 | May 21 | May 2026 core update (finished Jun 2) |
 | Jun 24 / Aug 18 | Short spam updates |
-| Sep 24 – Oct 8 | September 2026 spam update (about two weeks, the longest of the year) |
+| Sep 24 - Oct 8 | September 2026 spam update (about two weeks, the longest of the year) |
 | Nov 10 | November 2026 core update; rolling out, may take two weeks or longer |
 
 How to read it: the August position low sits between a spam update and the September one, and September's recovery came as that update started rolling. Correlation only; a site this small cannot isolate causes. For November, only 2 of the 11 days in this export fall inside the new core update, so **the November figures should be treated as preliminary**; re-pull GSC in early December for a clean read. Google's usual guidance applies: monitor during rollout, avoid reactive changes and judge results afterward.
