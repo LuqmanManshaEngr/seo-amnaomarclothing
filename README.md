@@ -35,7 +35,7 @@
 - Impressions grew from **6 in March to a peak of 230 in September** and stayed high in October (208).
 - Clicks peaked twice: **13 in April** (when only 37 impressions existed) and **18 in September**.
 - Between June and August, impressions held steady (71–105) while clicks fell to 3, the weakest stretch of the campaign.
-- **November (11 days)** shows 82 impressions, about 7.5 per day — in line with September (7.7/day) and October (6.7/day), so the daily pace has held.
+- **November (11 days)** shows 82 impressions, about 7.5 per day - in line with September (7.7/day) and October (6.7/day), so the daily pace has held.
 
 ---
 
@@ -112,7 +112,7 @@ How to read it: the August position low sits between a spam update and the Septe
 
 ## Methodology
 
-- Source: one GSC Performance export (Chart, Queries, Pages, Countries, Devices, Search appearance tabs), Web search type, March 2 – November 11, 2026. A second export from March 27 was used only as an early baseline (it contains no traffic yet).
+- Source: one GSC Performance export (Chart, Queries, Pages, Countries, Devices, Search appearance tabs), Web search type, March 2 - November 11, 2026. A second export from March 27 was used only as an early baseline (it contains no traffic yet).
 - Daily rows were summed to monthly totals. Average position is **weighted by daily impressions**. CTR = clicks ÷ impressions.
 - Query, page, country and device tables are used exactly as exported; GSC omits anonymized queries from the query table.
 - Summary data is in [`data/gsc_summary_mar-nov-2026.json`](data/gsc_summary_mar-nov-2026.json); charts were built with Python (matplotlib).
