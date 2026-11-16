@@ -1,16 +1,16 @@
 # Amna Omar Clothing | SEO Performance Case Study
-### Google Search Console Analysis | March - July 2026
+### Google Search Console Analysis | March - November 2026
 
 **Prepared by:** Muhammad Luqman Mansha | SEO Specialist & Digital Media Marketer, TIMaC Agency  
 **Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) | women's fashion e-commerce, Pakistan  
-**Data source:** Google Search Console (Performance report, "Last 6 months" filter, Web search type)  
-**Period analyzed:** March 2, 2026 - July 31, 2026 (5 full months, 152 days of daily data)  
+**Data source:** Google Search Console (Performance report, "Last 9 months" filter, Web search type)  
+**Period analyzed:** March 2, 2026 - November 15, 2026 (8 full months, 260 days of daily data)  
 
 ---
 
 ## 📊 Snapshot
 
-![SEO Performance Dashboard](images/aoc_hero_dashboard.png)<img width="2338" height="1287" alt="aoc_hero_dashboard" src="https://github.com/user-attachments/assets/9a9b5243-57cc-4a17-bd7e-81fd4e4a1db1" />
+![SEO Performance Dashboard](images/AOC_SEO_Performance_dashboard.png)<img width="2359" height="1306" alt="AOC- SEO Performance dashboard" src="https://github.com/user-attachments/assets/5e9b05df-0dfa-443a-b08e-2ec97b31ffbd" />
 
 | Metric | Value |
 |---|---|
@@ -28,7 +28,7 @@
 
 ## 1. Clicks Vs. Impressions Trend
 
-![Clicks vs Impressions](images/aoc_clicks_impressions_trend.png)<img width="1979" height="1110" alt="aoc_clicks_impressions_trend" src="https://github.com/user-attachments/assets/d56411bc-b7e7-4c08-b3eb-b9ec11ab8aaf" />
+![Clicks vs Impressions](images/aoc_clicks_impressions_trend.png)
 
 **What happened:** Impressions climbed almost every month; from 6 in March to a peak of 93 in June; as Google crawled and indexed more of the site's pages (homepage, collection page, product pages, and policy pages). Clicks, however, peaked early in April (13 clicks) and then declined even as impressions kept rising.
 
@@ -38,7 +38,7 @@
 
 ## 2. CTR Vs. Average Position
 
-![CTR vs Position](images/aoc_ctr_and_position_trend.png)<img width="1672" height="941" alt="aoc_ctr_and_ position_trend" src="https://github.com/user-attachments/assets/cf8e7b66-03cf-4da7-b6ed-70d07eb3ea72" />
+![CTR vs Position](images/aoc_ctr_and_position_trend.png)
 
 **What happened:** CTR fell sharply; from 35.1% in April to 5.6% by July; while the average ranking position also drifted from 4.3 down to 8.3 over the same window. The two metrics moved together: as rankings slipped further down page one, fewer of the growing impressions converted into clicks.
 
@@ -48,7 +48,7 @@
 
 ## 3. Device Breakdown
 
-![Device Breakdown](images/aoc_device_breakdown.png)<img width="2076" height="1267" alt="aoc_device_breakdown" src="https://github.com/user-attachments/assets/8754e354-bdc2-4b3e-bc22-adf5955d0858" />
+![Device Breakdown](images/AOC_Device_breakdown.png)<img width="2114" height="1277" alt="AOC- Device breakdown" src="https://github.com/user-attachments/assets/8d3b0807-8b9e-46bd-a2f9-761689120f85" />
 
 - **Mobile drove 86% of all clicks** and 63% of impressions, at a much stronger CTR (17.0%) than desktop (4.9%).
 - Desktop generated more impressions than expected but converted poorly; a common symptom of slower load times, layout shift, or a less polished above-the-fold experience on larger viewports.
@@ -59,7 +59,7 @@
 
 ## 4. Geographic Reach
 
-![Top Countries](images/aoc_top_countries.png)<img width="1979" height="1199" alt="aoc_top_countries" src="https://github.com/user-attachments/assets/a6754fab-43e1-4c91-a4ba-5c19009da06e" />
+![Top Countries](images/AOC_Top_Countries.png)<img width="2080" height="1198" alt="AOC- Top Countries" src="https://github.com/user-attachments/assets/8878fe93-9e5e-4674-9a6b-076af2537344" />
 
 Pakistan leads on volume (117 impressions, 13 clicks), which is expected for a Pakistan-based store, but the **United Kingdom converts far better on far fewer impressions**; a 40.9% CTR against just 22 impressions. The United States and Canada also show healthy engagement. This is an early signal of an underserved diaspora/export audience that a dedicated shipping, currency, or landing-page strategy could capture before it shows up in the numbers organically.
 
@@ -67,11 +67,17 @@ Pakistan leads on volume (117 impressions, 13 clicks), which is expected for a P
 
 ## 5. Query & Page Performance
 
-![Top Queries](images/aoc_top_queries.png)<img width="2061" height="1240" alt="aoc_top_queries" src="https://github.com/user-attachments/assets/04c403ab-f3ad-45f7-a6c5-ba2eedc7a310" />
+![Top Queries](images/AOC_Top_Queries.png)<img width="2080" height="1239" alt="AOC- Top Queries" src="https://github.com/user-attachments/assets/9b444770-f7f2-4e70-8bcd-b505e847da70" />
 
 **The single most important finding in this dataset:** every query driving impressions is a **branded query**; "amna omar", "amna omer", "amna umar", and close misspellings of the brand name. There is not one non-branded, product-category, or commercial-intent query (e.g. "abaya online Pakistan", "modest wear UK", "women's [product type]") appearing in the top queries at all.
 
-![Top Pages](images/aoc_top_pages.png)<img width="1979" height="1199" alt="aoc_top_pages" src="https://github.com/user-attachments/assets/fe7dff76-8d58-4bd3-8162-e3a2943c6d9c" />
+![Top Pages](images/AOC_Top_Pages.png)<img width="2080" height="1280" alt="AOC- Top Pages" src="https://github.com/user-attachments/assets/41280bf9-64c0-4876-83fa-20f286b272c8" />
+
+
+
+<img width="2180" height="1169" alt="AOC- CTR and Average Position trend" src="https://github.com/user-attachments/assets/16029826-1305-4d40-a028-d203aeca4086" />
+<img width="2180" height="1169" alt="AOC- Clicks and Impressions trend" src="https://github.com/user-attachments/assets/99a124d1-d868-4832-ba05-2efb18b027f5" />
+
 
 At the page level, the homepage and `/collection/` page absorb almost all clicks, while product pages like `/product/beige-pearl/` and category pages like `/tops/` and `/size/s/` are being **indexed and shown (38, 3, and 15 impressions respectively) but generate zero clicks**; they are impression-only pages, meaning Google is surfacing them for queries that are not yet compelling enough to earn the click, or the product/category content itself is too thin to rank for anything beyond incidental long-tail matches.
 
